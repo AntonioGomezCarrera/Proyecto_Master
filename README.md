@@ -1,5 +1,7 @@
 ### Simulink Criocooler Control Model
+
 __Author : Antonio Gómez Carrera__
+
 It is organise in Example and Model
 - Example contains a simulink example of a house heating system. It was used to understand the functioning of simulink as well as the main functions.
 - Model contains the crioocoler simulated.
